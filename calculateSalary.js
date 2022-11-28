@@ -34,5 +34,7 @@ function cleanFields() {
     document.getElementById("pensionToShow").innerHTML = "$ 0";
     document.getElementById("transportSubsidyToShow").innerHTML = "$ 0";
     document.getElementById("salarioNetoToShow").innerHTML = "$ 0";
+    document.getElementById("salary").value = "";
+
 }
 
